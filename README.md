@@ -3,7 +3,7 @@
 Knowledge Graph和CV结合的相关论文合集
 
 - [Knowledge-Graph-and-CV](#knowledge-graph-and-cv)
-  * [场景图生成](#-----)
+  * [场景图生成](#场景图生成)
 
 ## 场景图生成
 
